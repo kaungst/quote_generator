@@ -1,0 +1,7 @@
+development:
+  gdax:
+    key: this-is-fake-ask-or-add-one
+    passphrase: this-is-fake-ask-or-add-one-me 
+    secret: this-is-fake-ask-or-add-one-me
+    websocket_url: wss://ws-feed.gdax.com
+    api_base_url: https://api.gdax.com
